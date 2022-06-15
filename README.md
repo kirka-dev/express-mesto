@@ -8,6 +8,5 @@
 * HTML
 * CSS
 * JavaScript
-* [React](https://reactjs.org/)
-* [BEM](https://ru.bem.info/)
+* [Express](https://expressjs.com/)
 * [GIT](https://github.com/)
